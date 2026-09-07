@@ -1,0 +1,6 @@
+subject,true_y,predicted_y,error_voxels
+sub-verse004,97,98,1
+sub-verse005,141,140,1
+sub-verse006,386,386,0
+sub-verse007,185,184,1
+sub-verse008,135,136,1
