@@ -1,0 +1,8 @@
+numpy
+matplotlib
+SimpleITK
+nibabel
+torch
+monai
+pydicom
+pandas

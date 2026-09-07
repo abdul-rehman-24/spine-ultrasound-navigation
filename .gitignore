@@ -1,0 +1,10 @@
+datasets/
+*.nii
+*.nii.gz
+*.dcm
+*.pth
+*.pt
+checkpoints/
+logs/
+__pycache__/
+.ipynb_checkpoints/
