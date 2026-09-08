@@ -1,8 +1,14 @@
 numpy
 matplotlib
+pandas
+scipy
+scikit-image
 SimpleITK
 nibabel
 torch
 monai
 pydicom
-pandas
+opencv-python
+PyQt6
+pyvista
+pyvistaqt
